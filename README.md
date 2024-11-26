@@ -9,13 +9,13 @@
 
 <img align="right" alt="coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
-- I am a passionate developer **who enjoys programming**
+- 💻I am a passionate developer **who enjoys programming**
 
 - 🌱 I’m currently learning **Python Full Stack**
 
-- I can create layouts **using web technologies**
+- ✨I can create layouts **using web technologies**
 
-- I can develop applications like ATM and banking systems **using Python**
+- 🎯I can develop applications like ATM and banking systems **using Python**
 
 - 💬 Ask me about **Python, SQL, JS, HTML, CSS**
 
