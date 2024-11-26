@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1Dt-0TK_NyomEygsOXjimXdVgWJCAn_7Q/view?usp=sharing">
+<img align="right" alt="coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 - 🌱 I’m currently learning **Python Full Stack**
 
