@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://ibb.co/6sXZ1SS">
+
 - 🌱 I’m currently learning **Python Full Stack**
 
 - 💬 Ask me about **Python, SQL, JS, HTML, CSS**
