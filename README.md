@@ -1,5 +1,5 @@
 ![logo](https://github.com/Bhargavi-145/Bhargavi-145/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Bhargavi</h1>
+
 <h3 align="center">"Crafting Code with Purpose and Passion 🚀✨"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavi-145&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavi-145" /> </p>
